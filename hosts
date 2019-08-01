@@ -1,9 +1,0 @@
-[mso]
-mso1 host="173.36.219.193" user="admin" pass="ins3965!ins3965!"
-
-[apic]
-apic1 host2="173.36.219.190" user2="admin" pass2="ins3965!"
-apic2 host3="52.52.20.121" user3="admin" pass3="ins3965!"
-
-[vcenter]
-vc1 host="173.36.219.192" user="administrator@vsphere.local" pass="Ins3965!"
